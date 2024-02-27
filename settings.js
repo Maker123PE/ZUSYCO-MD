@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "51966099729",
-  SUDO_NUMBERS : "51966099729",
-  OWNER_NAME: "SYSS☯LUTエ☯NS",
-  BOT_NAME : "SYSS☯LUTエ☯NS",
+  OWNER_NUMBER: "51968961950",
+  SUDO_NUMBERS : "51968961950",
+  OWNER_NAME: "𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻",
+  BOT_NAME : "𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -31,12 +31,12 @@ module.exports = {
         GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Ametica/Lima",
-  WORK_TYPE : "public",
+  TIME_ZONE :  "America/Lima",
+  WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : 'SYSS☯LUTエ☯NS',
-  STICKER_PACK : 'SYSS☯LUTエ☯NS',
+  CAPTION : '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻',
+  STICKER_PACK : '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -45,7 +45,7 @@ module.exports = {
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : true,
-        NOT_WORKING : false,
+        NOT_WORKING : true,
   },
   READ : {
      ALL_MESSAGES : true,
