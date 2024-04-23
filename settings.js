@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "51968961950",
   SUDO_NUMBERS : "51968961950",
-  OWNER_NAME: "𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻",
-  BOT_NAME : "𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻",
+  OWNER_NAME: "【𝐒𝐘𝐒𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 𝐁𝐎𝐓™】",
+  BOT_NAME : "【𝐒𝐘𝐒𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 𝐁𝐎𝐓™】",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -28,20 +28,20 @@ module.exports = {
   },
   STOP_SEND : {
         WELCOME_MESSAGE : true,
-        GOODBYE_MESSAGE : false
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "America/Lima",
   WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻',
-  STICKER_PACK : '𝚂𝚈𝚂𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻',
+  CAPTION : '【𝐒𝐘𝐒𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 𝐁𝐎𝐓™】',
+  STICKER_PACK : '【𝐒𝐘𝐒𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 𝐁𝐎𝐓™】',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : true,
@@ -50,7 +50,7 @@ module.exports = {
   READ : {
      ALL_MESSAGES : true,
      ONLY_COMMANDS : false,
-     STATUS : false,
+     STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
